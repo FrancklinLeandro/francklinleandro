@@ -111,8 +111,3 @@ https://www.linkedin.com/in/francklin-imbassahy-866743390
 - **E-mail:**  
 fleandro0406@gmail.com
 
-<div align="center">
-
-Feito com 💻 e ☕ por Francklin
-
-</div>
