@@ -11,13 +11,13 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
 
 <div align="center">
   <a href="https://www.linkedin.com/in/francklin-imbassahy-866743390" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:fleandro0406@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/FrancklinLeandro" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Perfil-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
@@ -26,45 +26,55 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
 ## 🛠️ Habilidades Técnicas
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-        <br><b>Python</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-        <br><b>Bash</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-        <br><b>Linux</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
-        <br><b>Ansible</b>
-      </td>
-    </tr>
 
-    <tr>
-      <td align="center" width="90">
-        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-        <br><b>Wireshark</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=linux&logoColor=white"/>
-        <br><b>Nmap</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://img.shields.io/badge/NetBox-2E3440?style=for-the-badge&logo=datadog&logoColor=white"/>
-        <br><b>NetBox</b>
-      </td>
-      <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40" alt="CentOS"/>
-        <br><b>CentOS</b>
-      </td>
-    </tr>
-  </table>
+<table>
+
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<br><b>Python</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+<br><b>Bash</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<br><b>Linux</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>
+<br><b>Ansible</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="90">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+<br><b>Wireshark</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://img.shields.io/badge/Nmap-00457C?style=flat&logo=linux&logoColor=white"/>
+<br><b>Nmap</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://img.shields.io/badge/NetBox-2E3440?style=flat&logo=datadog&logoColor=white"/>
+<br><b>NetBox</b>
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40"/>
+<br><b>CentOS</b>
+</td>
+</tr>
+
+</table>
+
 </div>
 
 ---
@@ -85,9 +95,9 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancklinLeandro&layout=compact&theme=dark&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FrancklinLeandro&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
@@ -96,13 +106,13 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
 ## 📫 Como me encontrar
 
 - **LinkedIn:**  
-  https://www.linkedin.com/in/francklin-imbassahy-866743390
+https://www.linkedin.com/in/francklin-imbassahy-866743390
 
 - **E-mail:**  
-  fleandro0406@gmail.com
+fleandro0406@gmail.com
 
 <div align="center">
-  
+
 Feito com 💻 e ☕ por Francklin
 
 </div>
