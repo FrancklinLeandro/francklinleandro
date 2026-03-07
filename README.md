@@ -16,7 +16,7 @@ Tenho experiência prática com **Python e Bash**, e estou constantemente estuda
   <a href="mailto:fleandro0406@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI" target="_blank">
+  <a href="https://github.com/FrancklinLeandro" target="_blank">
     <img src="https://img.shields.io/badge/Open%20to%20Work-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
   </a>
 </div>
@@ -80,8 +80,8 @@ Tenho experiência prática com **Python e Bash**, e estou constantemente estuda
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancklinLeandro&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
