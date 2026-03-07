@@ -5,8 +5,10 @@
 </div>
 
 ## 🎯 Sobre Mim
-Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**. Estou em busca de novas **oportunidades profissionais** para aplicar meus conhecimentos em **automação, monitoramento de redes e configuração de equipamentos de infraestrutura**.
-Tenho experiência prática com **Python e automação em Bash**, e estou constantemente estudando para me tornar um profissional de infraestrutura mais **robusto e especializado**.
+Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**.  
+Possuo experiência prática em **automação de tarefas de rede com Python e Bash**, além de monitoramento e diagnóstico de conectividade em ambientes **Linux**.
+Neste perfil compartilho projetos voltados para **automação, auditoria e análise de redes**, utilizando ferramentas comuns no dia a dia de infraestrutura.
+Atualmente busco oportunidades para atuar com **infraestrutura, automação e operação de redes**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/francklin-imbassahy-866743390" target="_blank">
