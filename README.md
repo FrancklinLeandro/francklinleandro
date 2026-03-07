@@ -5,9 +5,9 @@
 </div>
 
 ## 🎯 Sobre Mim
-Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**. Estou em busca da minha **primeira oportunidade profissional** para aplicar meus conhecimentos em automação, monitoramento e configuração de equipamentos.
+Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**. Estou em busca da minha **primeira oportunidade profissional** para aplicar meus conhecimentos em **automação, monitoramento de redes e configuração de equipamentos de infraestrutura**.
 
-Tenho experiência prática com **Python e Bash**, e estou constantemente estudando para me tornar um profissional de infraestrutura robusto e seguro.
+Tenho experiência prática com **Python e automação em Bash**, e estou constantemente estudando para me tornar um profissional de infraestrutura robusto e seguro.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/francklin-imbassahy-866743390" target="_blank">
@@ -17,7 +17,7 @@ Tenho experiência prática com **Python e Bash**, e estou constantemente estuda
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/FrancklinLeandro" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20to%20Work-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+    <img src="https://img.shields.io/badge/GitHub-Perfil-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -51,11 +51,11 @@ Tenho experiência prática com **Python e Bash**, e estou constantemente estuda
         <br><b>Wireshark</b>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" width="40" height="40" alt="Nmap" />
+        <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=linux&logoColor=white" height="20"/>
         <br><b>Nmap</b>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbox/netbox-original.svg" width="40" height="40" alt="NetBox" />
+        <img src="https://img.shields.io/badge/NetBox-2E3440?style=for-the-badge&logo=datadog&logoColor=white" height="20"/>
         <br><b>NetBox</b>
       </td>
       <td align="center" width="90">
@@ -72,7 +72,7 @@ Tenho experiência prática com **Python e Bash**, e estou constantemente estuda
 
 <div align="center">
   <img src="https://img.shields.io/badge/Cisco_CCST-009CDE?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCST" />
-  <img src="https://img.shields.io/badge/Hackers_do_Bem-FF5722?style=for-the-badge&logo=security&logoColor=white" alt="Cibersegurança" />
+  <img src="https://img.shields.io/badge/Hackers_do_Bem-Cibersegurança-FF5722?style=for-the-badge&logo=security&logoColor=white" alt="Cibersegurança" />
 </div>
 
 ---
@@ -80,7 +80,7 @@ Tenho experiência prática com **Python e Bash**, e estou constantemente estuda
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancklinLeandro&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
