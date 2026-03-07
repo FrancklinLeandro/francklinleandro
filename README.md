@@ -29,37 +29,38 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
   <table>
     <tr>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
         <br><b>Python</b>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
         <br><b>Bash</b>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
         <br><b>Linux</b>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40" alt="Ansible"/>
         <br><b>Ansible</b>
       </td>
     </tr>
+
     <tr>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="40" height="40" alt="Wireshark" />
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
         <br><b>Wireshark</b>
       </td>
       <td align="center" width="90">
-        <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=linux&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=linux&logoColor=white"/>
         <br><b>Nmap</b>
       </td>
       <td align="center" width="90">
-        <img src="https://img.shields.io/badge/NetBox-2E3440?style=for-the-badge&logo=datadog&logoColor=white" height="20"/>
+        <img src="https://img.shields.io/badge/NetBox-2E3440?style=for-the-badge&logo=datadog&logoColor=white"/>
         <br><b>NetBox</b>
       </td>
       <td align="center" width="90">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40" alt="CentOS" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40" alt="CentOS"/>
         <br><b>CentOS</b>
       </td>
     </tr>
@@ -71,8 +72,11 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
 ## 📚 Em Estudo & Certificações
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Cisco_CCST-009CDE?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCST" />
-  <img src="https://img.shields.io/badge/Hackers_do_Bem-Cibersegurança-FF5722?style=for-the-badge&logo=security&logoColor=white" alt="Cibersegurança" />
+
+<img src="https://img.shields.io/badge/Cisco_CCST-009CDE?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Hackers_do_Bem-Cibersegurança-FF5722?style=for-the-badge"/>
+
 </div>
 
 ---
@@ -80,17 +84,25 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancklinLeandro&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancklinLeandro&layout=compact&theme=dark&hide_border=true"/>
+
 </div>
 
 ---
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/francklin-imbassahy-866743390](https://www.linkedin.com/in/francklin-imbassahy-866743390)
-- **E-mail:** [fleandro0406@gmail.com](mailto:fleandro0406@gmail.com)
+- **LinkedIn:**  
+  https://www.linkedin.com/in/francklin-imbassahy-866743390
+
+- **E-mail:**  
+  fleandro0406@gmail.com
 
 <div align="center">
-  <p>Feito com 💻 e ☕ por Francklin</p>
+  
+Feito com 💻 e ☕ por Francklin
+
 </div>
