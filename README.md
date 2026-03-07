@@ -1,13 +1,12 @@
-# 👋 Olá, eu sou o Francklin!
+# 👋 Olá, eu sou Francklin!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=600&lines=Olá!+Sou+Estudante+de+CC;Foco+em+Redes+e+Infraestrutura;Aberto+a+Oportunidades" alt="Typing SVG" />
 </div>
 
 ## 🎯 Sobre Mim
-Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**. Estou em busca da minha **primeira oportunidade profissional** para aplicar meus conhecimentos em **automação, monitoramento de redes e configuração de equipamentos de infraestrutura**.
-
-Tenho experiência prática com **Python e automação em Bash**, e estou constantemente estudando para me tornar um profissional de infraestrutura robusto e seguro.
+Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**. Estou em busca de novas **oportunidades profissionais** para aplicar meus conhecimentos em **automação, monitoramento de redes e configuração de equipamentos de infraestrutura**.
+Tenho experiência prática com **Python e automação em Bash**, e estou constantemente estudando para me tornar um profissional de infraestrutura mais **robusto e especializado**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/francklin-imbassahy-866743390" target="_blank">
