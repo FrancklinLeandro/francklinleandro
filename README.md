@@ -1,11 +1,13 @@
 # 👋 Olá, eu sou o Francklin!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=600&lines=Olá!+Sou+Engenheiro+de+Redes;Especialista+em+Automação+de+Infraestrutura;Apaixonado+por+Linux+e+Segurança" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=600&lines=Olá!+Sou+Estudante+de+CC;Foco+em+Redes+e+Infraestrutura;Aberto+a+Oportunidades" alt="Typing SVG" />
 </div>
 
 ## 🎯 Sobre Mim
-Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**. Tenho experiência prática em automação com Python e Bash, monitoramento de rede e configuração de equipamentos. Meu objetivo é construir infraestruturas robustas, seguras e automatizadas.
+Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**. Estou em busca da minha **primeira oportunidade profissional** para aplicar meus conhecimentos em automação, monitoramento e configuração de equipamentos.
+
+Tenho experiência prática com **Python e Bash**, e estou constantemente estudando para me tornar um profissional de infraestrutura robusto e seguro.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/francklin-imbassahy-866743390" target="_blank">
@@ -13,6 +15,9 @@ Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura d
   </a>
   <a href="mailto:fleandro0406@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20to%20Work-4A90E2?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
   </a>
 </div>
 
@@ -75,8 +80,8 @@ Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura d
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrancklinLeandro&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancklinLeandro&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
