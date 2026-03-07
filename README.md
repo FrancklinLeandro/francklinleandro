@@ -14,7 +14,7 @@ Estudante de Ciência da Computação com foco em **Redes e Infraestrutura de TI
 - Hackers do Bem (Cibersegurança)
 
 ## 📫 Como me encontrar
-- **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/francklin-imbassahy-866743390)
 - **E-mail:** fleandro0406@gmail.com
 
 ---
