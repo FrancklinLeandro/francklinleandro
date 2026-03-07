@@ -17,7 +17,4 @@ Estudante de Ciência da Computação com foco em **Redes e Infraestrutura de TI
 - **LinkedIn:** [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/francklin-imbassahy-866743390)
 - **E-mail:** fleandro0406@gmail.com
 
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fleandro0406-spec&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+
