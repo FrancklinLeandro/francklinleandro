@@ -68,8 +68,8 @@ Tenho experiência prática com **Python e automação em Bash**, e estou consta
 </td>
 
 <td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="40" height="40"/>
-<br><b>CentOS</b>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+<br><b>Ubuntu</b>
 </td>
 </tr>
 
@@ -110,4 +110,3 @@ https://www.linkedin.com/in/francklin-imbassahy-866743390
 
 - **E-mail:**  
 fleandro0406@gmail.com
-
