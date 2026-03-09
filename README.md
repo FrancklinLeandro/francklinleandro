@@ -1,4 +1,4 @@
-# 🚀 Francklin Imbassahy — Redes & Infraestrutura
+# 🚀 Francklin Leandro — Redes & Infraestrutura
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=600&lines=Olá!+Sou+Estudante+de+CC;Foco+em+Redes+e+Infraestrutura;Aberto+a+Oportunidades" alt="Typing SVG" />
