@@ -11,7 +11,7 @@ Neste perfil compartilho projetos voltados para **automação, auditoria e anál
 Atualmente busco oportunidades para atuar com **infraestrutura, automação e operação de redes**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/francklin-imbassahy-866743390" target="_blank">
+  <a href="https://www.linkedin.com/in/francklin-leandro-866743390/ " target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:fleandro0406@gmail.com" target="_blank">
@@ -107,7 +107,7 @@ Atualmente busco oportunidades para atuar com **infraestrutura, automação e op
 ## 📫 Como me encontrar
 
 - **LinkedIn:**  
-https://www.linkedin.com/in/francklin-imbassahy-866743390
+https://www.linkedin.com/in/francklin-leandro-866743390/
 
 - **E-mail:**  
 fleandro0406@gmail.com
