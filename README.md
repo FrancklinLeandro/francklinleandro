@@ -5,10 +5,9 @@
 </div>
 
 ## 🎯 Sobre Mim
-Estudante de **Ciência da Computação** com foco em **Redes e Infraestrutura de TI**.  
-Possuo experiência prática em **automação de tarefas de rede com Python e Bash**, além de monitoramento e diagnóstico de conectividade em ambientes **Linux**.
-Neste perfil compartilho projetos voltados para **automação, auditoria e análise de redes**, utilizando ferramentas comuns no dia a dia de infraestrutura.
-Atualmente busco oportunidades para atuar com **infraestrutura, automação e operação de redes**.
+Estudante de Ciência da Computação com foco em **Redes e Infraestrutura de TI**.
+Possuo experiência prática em **automação de tarefas de rede com Python e Bash**, além de **monitoramento e diagnóstico de conectividade em ambientes Linux**.
+Neste perfil compartilho **projetos voltados para automação, auditoria e análise de redes**, utilizando ferramentas e práticas comuns no dia a dia de equipes de **infraestrutura e operações de rede**.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/francklin-leandro-866743390/ " target="_blank">
