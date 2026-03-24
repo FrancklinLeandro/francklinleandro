@@ -1,7 +1,7 @@
 # 🚀 Francklin Leandro — Redes & Infraestrutura
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=600&lines=Infraestrutura+de+Redes;Linux+|+Monitoramento+de+ Redes+|+Troubleshooting;Automação+com+Python,+Bash+e+Ansible" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=600&lines=Infraestrutura+de+Redes;Linux+%7C+Monitoramento+de+Redes+%7C+Troubleshooting;Automação+com+Python,+Bash+e+Ansible" 
     alt="Typing SVG" />
 </div>
 
