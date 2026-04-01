@@ -11,7 +11,7 @@ Possuo experiência prática em **automação de tarefas de rede com Python e Ba
 Neste perfil compartilho **projetos voltados para automação, auditoria e análise de redes**, utilizando ferramentas e práticas comuns no dia a dia de equipes de **infraestrutura e operações de rede**.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/francklin-leandro-866743390/ " target="_blank">
+  <a href="https://www.linkedin.com/in/francklin-leandro-866743390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:fleandro0406@gmail.com" target="_blank">
@@ -19,6 +19,9 @@ Neste perfil compartilho **projetos voltados para automação, auditoria e anál
   </a>
   <a href="https://github.com/FrancklinLeandro" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Perfil-4A90E2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/francklinleandro0406?igsh=MWVzNDV5ZXBiMXZsMg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
