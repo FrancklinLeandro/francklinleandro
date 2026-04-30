@@ -1,7 +1,7 @@
-# 🚀 Francklin Leandro — Infraestrutura Linux & Automação
+# 🚀 Francklin Leandro — SysAdmin | Infraestrutura Linux & Automação
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=700&lines=Infraestrutura+Linux;Automação+com+Bash,+Python+e+Ansible;Monitoramento+e+Diagnóstico+de+Redes" 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&width=700&lines=SysAdmin+Linux;Automação+com+Bash,+Python+e+Ansible;Infraestrutura,+Monitoramento+e+Redes" 
     alt="Typing SVG" />
 </div>
 
@@ -9,20 +9,21 @@
 
 ## 🎯 Sobre Mim
 
-Atuação em **infraestrutura Linux, redes e automação de tarefas**, com experiência prática em:
+Atuação como **SysAdmin com foco em infraestrutura Linux, automação e redes**, com experiência prática em:
 
-- Monitoramento de rede e análise de tráfego  
-- Diagnóstico e troubleshooting de conectividade  
+- Administração e provisionamento de servidores Linux  
 - Automação de rotinas com Bash, Python e Ansible  
-- Análise de serviços e segurança básica (Nmap, iptables)  
+- Diagnóstico e troubleshooting de sistemas e conectividade  
+- Monitoramento de infraestrutura e análise de tráfego  
+- Segurança básica (Nmap, iptables)  
 
-Desenvolvo projetos voltados para **monitoramento, auditoria e automação de infraestrutura**, simulando cenários reais de ambiente corporativo.
+Desenvolvo projetos voltados para **automação, monitoramento e gestão de infraestrutura**, simulando cenários reais de ambiente corporativo.
 
 ---
 
 ## 🔥 Projetos em Destaque
 
-- 🔧 **Monitoramento de Tráfego (Bash)**  
+- 🔧 **Auditoria e Monitoramento de Rede (Bash)**  
   Coleta e cálculo de throughput em tempo real via `/proc/net/dev`
 
 - 📡 **Monitoramento de Access Points (Python)**  
