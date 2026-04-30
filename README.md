@@ -15,7 +15,7 @@ Atuação como **SysAdmin com foco em infraestrutura Linux, automação e redes*
 - Automação de rotinas com Bash, Python e Ansible  
 - Diagnóstico e troubleshooting de sistemas e conectividade  
 - Monitoramento de infraestrutura e análise de tráfego  
-- Segurança básica (Nmap, iptables)  
+- Segurança de redes (Nmap, iptables)  
 
 Desenvolvo projetos voltados para **automação, monitoramento e gestão de infraestrutura**, simulando cenários reais de ambiente corporativo.
 
